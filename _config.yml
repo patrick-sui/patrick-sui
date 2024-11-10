@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Patrick's Homepage"
 title_separator          : "-"
 name                     : &name "Patrick Sui"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   name             : "Patrick Sui"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in English"
-  location         : "Montreal"
+  location         : "Montreal, Quebec"
   employer         : "McGill University"
   uri              : # URL
   email            : "peiqi.sui@mail.mcgill.ca" 
