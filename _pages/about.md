@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Showing the use of literary theory for NLP, one ACL paper at a time."
+title: "Showing the use of literary theory for NLP, 
+one ACL paper at a time."
 author_profile: true
 redirect_from: 
   - /about/
