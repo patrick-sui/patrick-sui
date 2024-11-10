@@ -14,7 +14,7 @@ Some research questions I am currently interested in include:
 1. Modeling close reading (a skill that most universities ask English departments to teach all undergrads) as a unique cognitive behavior, and formalizing its procedures with information theory to supervise sampling and other inference-time solutions for improving long document understanding
 1. Leveraging archives of literary scholarship as a weighted knowledge base for author-based style transfer.
 
-I am open to collaborate. Please feel free to reach out if you have similar research interests.
+I am open to collaborate. Please feel free to email me if you have similar research interests.
 
 Recent News
 ------
