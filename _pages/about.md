@@ -7,11 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am  a second-year PhD student in English at McGill University, advised by [Richard Jean So](https://richardjeanso.wixsite.com/mysite/light-art). I mainly work in digital humanities & cultural analytics, and spends most of my time thinking about how literary studies could uniquely contribute to AI research about language. Some research questions I am currently interested in include:
-Exploring LLMs as viable cultural agents and co-creative systems, through making use of the affordances of hallucinations as confabulations (ACL paper).
+I am  a second-year PhD student in English at McGill University, advised by [Richard Jean So](https://richardjeanso.wixsite.com/mysite/light-art). I mainly use NLP to work in digital humanities & cultural analytics, and spends most of my time thinking about how literary studies could uniquely contribute to AI research about language. Some research questions I am currently interested in include:
+
 Making use of the vast, high-quality, yet unexplored data produced by humanities departments. I'm currently collecting a dataset of student essays to create the first literary/interpretive reasoning dataset.
 Modeling close reading (a skill that most universities ask English departments to teach all undergrads) as a unique cognitive behavior, and formalizing its procedures with information theory to supervise sampling and other inference-time solutions for improving long document understanding.
 
+
+======
+1. Exploring LLMs as viable cultural agents and co-creative systems, through making use of the affordances of hallucinations as confabulations (ACL paper).
+1. Making use of the vast, high-quality, yet unexplored data produced by humanities departments. I'm currently collecting a dataset of student essays to create the first literary/interpretive reasoning dataset.
+1. Modeling close reading (a skill that most universities ask English departments to teach all undergrads) as a unique cognitive behavior, and formalizing its procedures with information theory to supervise sampling and other inference-time solutions for improving long document understanding.
 
 A data-driven personal website
 ======
@@ -20,13 +25,6 @@ Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you se
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
