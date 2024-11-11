@@ -6,7 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am  a second-year PhD student in English at McGill University, advised by [Richard Jean So](https://richardjeanso.wixsite.com/mysite/light-art). I mainly work in digital humanities & cultural analytics with NLP methods, and spend most of my time thinking about how literary studies could uniquely contribute to AI research about language. I publish in a mix of NLP venues and humanities journals.
+I am  a second-year PhD student in English at McGill University, advised by [Richard Jean So](https://richardjeanso.wixsite.com/mysite/light-art). Before that, I received two masters from the University of Texas at Austin, a M.S. in information and a M.A. in English.
+
+I mainly work in digital humanities & cultural analytics with NLP methods, and spend most of my time thinking about how literary studies could uniquely contribute to AI research about language. I publish in a mix of NLP venues and humanities journals.
 
 Some research questions I am currently interested in include:
 1. Exploring LLMs as viable cultural agents and co-creative systems, through making use of the affordances of hallucinations as [confabulations](https://aclanthology.org/2024.acl-long.770/)
@@ -16,5 +18,6 @@ Some research questions I am currently interested in include:
 
 I am open to collaborate. Please feel free to email me if you have similar research interests.
 
-Recent News
+Fun Fact About Me
 ------
+I have a draft of a poetry chapbook almost ready for submission. Then I started doing NLP research.
